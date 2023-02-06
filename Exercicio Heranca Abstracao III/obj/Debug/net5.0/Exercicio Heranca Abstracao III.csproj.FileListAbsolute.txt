@@ -1,0 +1,16 @@
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\bin\Debug\net5.0\Exercicio Heranca Abstracao III.exe
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\bin\Debug\net5.0\Exercicio Heranca Abstracao III.deps.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\bin\Debug\net5.0\Exercicio Heranca Abstracao III.runtimeconfig.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\bin\Debug\net5.0\Exercicio Heranca Abstracao III.runtimeconfig.dev.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\bin\Debug\net5.0\Exercicio Heranca Abstracao III.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\bin\Debug\net5.0\Exercicio Heranca Abstracao III.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\Exercicio Heranca Abstracao III.csproj.AssemblyReference.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\Exercicio Heranca Abstracao III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\Exercicio Heranca Abstracao III.AssemblyInfoInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\Exercicio Heranca Abstracao III.AssemblyInfo.cs
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\Exercicio Heranca Abstracao III.csproj.CoreCompileInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\Exercicio Heranca Abstracao III.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\refint\Exercicio Heranca Abstracao III.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\Exercicio Heranca Abstracao III.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\Exercicio Heranca Abstracao III.genruntimeconfig.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\Exercicio heranca Abstracao\Exercicio Heranca Abstracao III\obj\Debug\net5.0\ref\Exercicio Heranca Abstracao III.dll
